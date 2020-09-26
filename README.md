@@ -1,2 +1,2 @@
 # EmployeeWageBuilder
-Welcome to Employee Wage computation Program.
+Welcome to Employee Wage Computation Program.
